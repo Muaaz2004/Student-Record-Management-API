@@ -1,0 +1,26 @@
+[
+  {
+    "id": 123,
+    "name": "Muaaz",
+    "Email": "Shaikmuaaz@gmail.com",
+    "course": "Mern"
+  },
+  {
+    "id": 124,
+    "name": "Ayaan",
+    "Email": "ayan@gmail.com",
+    "course": "Dsa"
+  },
+  {
+    "id": 1769959213945,
+    "name": "Reddy",
+    "email": "pawan@gmail.com",
+    "course": "dsa"
+  },
+  {
+    "id": 33,
+    "name": "Reddy",
+    "email": "lingareddy@gmail.com",
+    "course": "fulstack"
+  }
+]
